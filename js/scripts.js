@@ -32,7 +32,7 @@ $( window ).scroll(function() {
     /* http://idangero.us/swiper/ */  // use para swiper, carrosels, já é responsivo
     /* https://jqueryvalidation.org/ */  // use para para validação
     /* https://gist.github.com/diegoprates/5047663 */  // use para para traduzir automaticamente  as mensagens padrdão do jquery validate, só colar no fim do arquivo js, este ou o do jquery validate.
-    /* https://igorescobar.github.io/jQuery-Mask-Plugin/ */  // use para para traduzir automaticamente  as mensagens padrdão.
+    /* https://igorescobar.github.io/jQuery-Mask-Plugin/ */  // mascara
     /*http://isotope.metafizzy.co/filtering.html*/   // Filtro com efeito css .. pode ser usado com select, link, button, li a, etc...
     /* https://jqueryui.com/selectmenu/ */   // select menu... eh o que apresetna menos bug... o ponto negativo eh a porrada de coisa que vem no css....
     /* http://adam.co/lab/jquery/customselect/ */   // esse nunca usei mais tem gente usando serve pra mesma coisa ... select box
